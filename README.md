@@ -9,3 +9,13 @@ This project showcases my work as a Business Analyst in designing an enterprise-
 - ✅ Receipt Upload, Validation, and Audit Controls
 - ✅ Team Lead Approval & Role-Based Permissions
 - ✅ KPI Dashboard: Average Trip Cost, Client Billing %, Cost Category Breakdown
+
+Documents Included
+- Functional & Non-Functional Requirements
+- Process Flows & Approval Diagrams
+- KPI Dashboard Mockups
+- Use Cases & Personas
+
+## 🛠️ Tools Used
+
+- Confluence, Jira, Figma, AWS S3, REST API, Google Drive
